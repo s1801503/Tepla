@@ -2,7 +2,7 @@
 # Tepla
   Teaching platform guideline construction project.
  
-  
+Tepla uses node.js scripts.
   
 **Te***aching* **Pla***tform* for Helsinki Business College
 
